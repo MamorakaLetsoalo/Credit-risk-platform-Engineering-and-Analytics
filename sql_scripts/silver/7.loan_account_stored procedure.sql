@@ -100,11 +100,3 @@ EXEC [silver].[usp_transform_loans]
 
 SELECT * FROM [silver].[loan_accounts];
 
-SELECT TOP 20
-    interest_rate,
-    loan_amount,
-    current_balance
-FROM bronze.loan_accounts
-WHERE batch_id = 1;
-
-EXEC sp_help 'silver.loan_accounts';
