@@ -1,5 +1,5 @@
 
-# 🏦 Credit Risk & Loan Default Engineeering and Analytics Platform
+# 🏦 Credit Risk & Loan Default Analytics Platform
 
 <div align="center">
 
