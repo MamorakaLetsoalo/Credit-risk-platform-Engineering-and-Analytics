@@ -1,8 +1,9 @@
 # Credit Risk Platform — Business Rules
-# =============================================================================
+
+# ---------------------------------------------------------
 # All credit risk business rules applied in the Silver and Gold layers.
 # Every rule here maps to a DQ check or a transformation in the SQL scripts.
-# =============================================================================
+# ---------------------------------------------------------------
 
 ## 1. Data Ingestion Rules (Bronze Layer)
 
