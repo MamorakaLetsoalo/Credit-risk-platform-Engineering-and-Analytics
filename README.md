@@ -16,8 +16,7 @@
 
 <br/>
 
-> **A production-grade Banking Credit Risk Data Platform** simulating how banks manage loan exposure, default risk, delinquency trends, and portfolio monitoring — built with SQL Server, SSIS, Python, and Azure DevOps CI/CD.
-
+> **A production-grade Banking Credit Risk Data Platform** simulating how banks manage loan exposure, default risk, delinquency trends, and portfolio monitoring — built with SQL, SSIS, Python, and SSMS.
 </div>
 
 ---
@@ -250,4 +249,4 @@ TestCrossDatasetIntegrity ::   3/3  passed
 
 **credit risk domain expertise, and end-to-end pipeline design.**
   
-DISCLAIMER:THIS PRORECJT IS FOR EDUCATIONAL PURPOSE ONLY,NOT FINNACIAL ADVISE
+DISCLAIMER:THIS PRORECJT IS FOR EDUCATIONAL PURPOSE ONLY,NOT FINANCIAL ADVISE
