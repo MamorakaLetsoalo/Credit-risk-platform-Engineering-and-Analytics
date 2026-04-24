@@ -1,8 +1,9 @@
 # Credit Risk Platform — Data Dictionary
-# =============================================================================
-# Complete column-level documentation for all layers.
-# Update this file whenever a column is added, renamed, or removed.
-# =============================================================================
+
+
+**Complete column-level documentation for all layers.**
+**Update this file whenever a column is added, renamed, or removed.**
+
 
 ## Bronze Layer
 
