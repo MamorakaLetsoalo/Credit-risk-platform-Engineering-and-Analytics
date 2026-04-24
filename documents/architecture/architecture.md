@@ -1,7 +1,7 @@
 # Credit Risk Platform — Architecture Document
-# =============================================================================
-# Version: 1.0 | Environment: PROD | Last Updated: 2024
-# =============================================================================
+
+**Version: 1.0 | Environment: PROD | Last Updated: 2024**
+
 
 ## 1. Overview
 
